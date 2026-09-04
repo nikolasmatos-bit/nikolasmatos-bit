@@ -43,7 +43,7 @@
 
 ---
 
-# 🧬 `> WHOAMI`
+# 🧬 `> SUPER`
 
 <table>
 <tr>
@@ -161,7 +161,7 @@ Criar coisas que sejam:
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# 📊 GITHUB CENTRO DE COMANDO
 
 <div align="center">
 
@@ -177,7 +177,7 @@ Criar coisas que sejam:
 
 ---
 
-# 📈 CONTRIBUTION MATRIX
+# 📈 MATRIX
 
 <div align="center">
 
@@ -237,7 +237,7 @@ Transformando projetos em algo grande.
 
 ---
 
-# 🎮 PLAYER PROFILE
+# 🎮 PERFIL DO JOGADOR
 
 <div align="center">
 
@@ -328,23 +328,23 @@ Transformando projetos em algo grande.
 
 <div align="center">
 
-### 🟢 PHASE 01 — APRENDER
+### 🟢 fase 01 — APRENDER
 
 Conhecimento → Experiência
 
-### 🔵 PHASE 02 — CONSTRUIR
+### 🔵 fase 02 — CONSTRUIR
 
 Ideias → Projetos
 
-### 🟣 PHASE 03 — EXPERIMENTAR
+### 🟣 fase 03 — EXPERIMENTAR
 
 Projetos → Experiência
 
-### 🟠 PHASE 04 — EVOLUIR
+### 🟠 fase 04 — EVOLUIR
 
 Experiência → Maestria
 
-### 🔴 PHASE 05 — IMPACTAR
+### 🔴 fase 05 — IMPACTAR
 
 Maestria → Algo extraordinário
 
