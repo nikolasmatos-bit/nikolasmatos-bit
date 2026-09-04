@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:003CFF,70:00C8FF,100:00FFF0&height=250&section=header&text=NIKOLAS%20MATOS&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=DEVELOPER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20INNOVATOR&descAlignY=57&descSize=19&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:003CFF,70:00C8FF,100:00FFF0&height=250&section=header&text=NIKOLAS%20MATOS&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=DESENVOLVEDOR%20%E2%80%A2%20CRIADOR%20%E2%80%A2%20INOVADOR&descAlignY=57&descSize=19&animation=fadeIn" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=600&color=00FFF0&center=true&vCenter=true&width=900&height=70&lines=%3E+HELLO%2C+WORLD!+%F0%9F%91%8B;%3E+EU+SOU+NIKOLAS+MATOS+%F0%9F%94%A5;%3E+TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;%3E+BUILDING+THE+FUTURE...+%F0%9F%9A%80;%3E+LEARN.+BUILD.+EVOLVE.+%E2%9A%A1" alt="Typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=600&color=00FFF0&center=true&vCenter=true&width=900&height=70&lines=%3E+OL%C3%81%2C+MUNDO!+%F0%9F%91%8B;%3E+EU+SOU+NIKOLAS+MATOS+%F0%9F%94%A5;%3E+TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;%3E+CONSTRUINDO+O+FUTURO...+%F0%9F%9A%80;%3E+APRENDER.+CRIAR.+EVOLUIR.+%E2%9A%A1" alt="Texto animado">
 
 <br><br>
 
@@ -12,15 +12,15 @@
 
 <img src="https://img.shields.io/github/followers/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=white&color=0077FF&labelColor=05001A&label=SEGUIDORES">
 
-<img src="https://img.shields.io/github/stars/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=white&color=7A00FF&labelColor=05001A&label=STARS">
+<img src="https://img.shields.io/github/stars/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=white&color=7A00FF&labelColor=05001A&label=ESTRELAS">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00FFF0?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/STATUS-CONSTRUINDO_O_FUTURO-00FFF0?style=for-the-badge&labelColor=05001A">
 
-<img src="https://img.shields.io/badge/MODE-ULTRA_FOCUS-7A00FF?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/MODO-FOCO_TOTAL-7A00FF?style=for-the-badge&labelColor=05001A">
 
-<img src="https://img.shields.io/badge/ENERGY-INFINITE-FF1744?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/ENERGIA-INFINITA-FF1744?style=for-the-badge&labelColor=05001A">
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ---
 
-# 🧬 `> SUPER`
+# 🧬 `> QUEM SOU EU`
 
 <table>
 <tr>
@@ -83,13 +83,13 @@ Criar coisas que sejam:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=400&color=00C8FF&center=true&vCenter=true&width=850&height=150&lines=%5BSYSTEM%5D+Booting+Nikolas.exe...;%5BSYSTEM%5D+Loading+creativity...;%5BSYSTEM%5D+Loading+curiosity...;%5BSYSTEM%5D+Loading+determination...;%5BSYSTEM%5D+Loading+coffee...;%5BSYSTEM%5D+SYSTEM+ONLINE+%E2%9C%85">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=400&color=00C8FF&center=true&vCenter=true&width=850&height=150&lines=%5BSISTEMA%5D+Iniciando+Nikolas.exe...;%5BSISTEMA%5D+Carregando+criatividade...;%5BSISTEMA%5D+Carregando+curiosidade...;%5BSISTEMA%5D+Carregando+determina%C3%A7%C3%A3o...;%5BSISTEMA%5D+Carregando+caf%C3%A9...;%5BSISTEMA%5D+SISTEMA+ONLINE+%E2%9C%85">
 
 </div>
 
 ---
 
-# 🛠️ ARSENAL TECNOLÓGICO QUE IREI APRENDER E JÁ APRENDI
+# 🛠️ ARSENAL TECNOLÓGICO
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Criar coisas que sejam:
 
 <br><br>
 
-### 🌐 WEB
+### 🌐 DESENVOLVIMENTO WEB
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite&theme=dark">
 
@@ -111,7 +111,7 @@ Criar coisas que sejam:
 
 <br><br>
 
-### 🗄️ DATABASE & CLOUD
+### 🗄️ BANCO DE DADOS E NUVEM
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws&theme=dark">
 
@@ -143,7 +143,7 @@ Criar coisas que sejam:
 
 ↓
 
-### 🔧 DEBUG
+### 🔧 DEPURAÇÃO
 
 ↓
 
@@ -161,13 +161,13 @@ Criar coisas que sejam:
 
 ---
 
-# 📊 GITHUB CENTRO DE COMANDO
+# 📊 CENTRAL DE ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nikolasmatos-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05001A&title_color=00FFF0&icon_color=00C8FF&text_color=FFFFFF&rank_icon=github&custom_title=NIKOLAS%20MATOS" height="190">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmatos-bit&layout=compact&langs_count=10&hide_border=true&bg_color=05001A&title_color=00FFF0&text_color=FFFFFF&custom_title=TECH%20STACK" height="190">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmatos-bit&layout=compact&langs_count=10&hide_border=true&bg_color=05001A&title_color=00FFF0&text_color=FFFFFF&custom_title=TECNOLOGIAS%20MAIS%20UTILIZADAS" height="190">
 
 <br><br>
 
@@ -177,11 +177,21 @@ Criar coisas que sejam:
 
 ---
 
-# 📈 MATRIX
+# 📈 MATRIZ DE CONTRIBUIÇÕES
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolasmatos-bit&bg_color=05001A&color=00FFF0&line=0077FF&point=FFFFFF&area=true&hide_border=true&custom_title=NIKOLAS%20MATOS%20-%20ACTIVITY" width="96%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolasmatos-bit&bg_color=05001A&color=00FFF0&line=0077FF&point=FFFFFF&area=true&hide_border=true&custom_title=NIKOLAS%20MATOS%20-%20ATIVIDADE" width="96%">
+
+</div>
+
+---
+
+# 🐍 COBRA DAS CONTRIBUIÇÕES
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nikolasmatos-bit/nikolasmatos-bit/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Cobra das contribuições">
 
 </div>
 
@@ -205,7 +215,7 @@ Criar coisas que sejam:
 
 ## 🧪
 
-### LAB
+### LABORATÓRIO
 
 Experimentando novas ideias.
 
@@ -215,9 +225,9 @@ Experimentando novas ideias.
 
 ## 🚀
 
-### BUILD
+### CONSTRUÇÃO
 
-Construindo projetos.
+Projetos em desenvolvimento.
 
 </td>
 
@@ -225,9 +235,9 @@ Construindo projetos.
 
 ## 💎
 
-### PRO
+### FINALIZADOS
 
-Transformando projetos em algo grande.
+Projetos concluídos e aprimorados.
 
 </td>
 </tr>
@@ -254,7 +264,7 @@ Transformando projetos em algo grande.
 
 ---
 
-# 🧠 MINDSET
+# 🧠 MENTALIDADE
 
 <div align="center">
 
@@ -288,7 +298,7 @@ Transformando projetos em algo grande.
 
 ---
 
-# ⚙️ DEVELOPMENT PIPELINE
+# ⚙️ FLUXO DE DESENVOLVIMENTO
 
 <div align="center">
 
@@ -306,11 +316,11 @@ Transformando projetos em algo grande.
 <tr>
 <td align="center">🧪<br><b>TESTE</b></td>
 <td>←</td>
-<td align="center">🐛<br><b>DEBUG</b></td>
+<td align="center">🐛<br><b>DEPURAÇÃO</b></td>
 <td>←</td>
 <td align="center">⚡<br><b>OTIMIZAÇÃO</b></td>
 <td>←</td>
-<td align="center">🚀<br><b>DEPLOY</b></td>
+<td align="center">🚀<br><b>PUBLICAÇÃO</b></td>
 </tr>
 </table>
 
@@ -324,27 +334,27 @@ Transformando projetos em algo grande.
 
 ---
 
-# 🏆 ROADMAP
+# 🏆 PLANO DE EVOLUÇÃO
 
 <div align="center">
 
-### 🟢 fase 01 — APRENDER
+### 🟢 FASE 01 — APRENDER
 
 Conhecimento → Experiência
 
-### 🔵 fase 02 — CONSTRUIR
+### 🔵 FASE 02 — CONSTRUIR
 
 Ideias → Projetos
 
-### 🟣 fase 03 — EXPERIMENTAR
+### 🟣 FASE 03 — EXPERIMENTAR
 
 Projetos → Experiência
 
-### 🟠 fase 04 — EVOLUIR
+### 🟠 FASE 04 — EVOLUIR
 
 Experiência → Maestria
 
-### 🔴 fase 05 — IMPACTAR
+### 🔴 FASE 05 — IMPACTAR
 
 Maestria → Algo extraordinário
 
@@ -352,11 +362,11 @@ Maestria → Algo extraordinário
 
 ---
 
-# 💻 TERMINAL
+# 💻 TERMINAL DO NIKOLAS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00FFF0&center=true&vCenter=true&width=900&height=180&lines=%24+git+clone+ideas;%24+cd+ideas;%24+npm+install+skills;%24+code+.;%24+git+add+.;%24+git+commit+-m+%22never+stop%22;%24+git+push+origin+future;%24+echo+%22KEEP+BUILDING%22+%F0%9F%94%A5">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00FFF0&center=true&vCenter=true&width=900&height=180&lines=%24+git+clone+ideias;%24+cd+ideias;%24+npm+install+habilidades;%24+code+.;%24+git+add+.;%24+git+commit+-m+%22nunca+pare%22;%24+git+push+origin+futuro;%24+echo+%22CONTINUE+CONSTRUINDO%22+%F0%9F%94%A5">
 
 </div>
 
@@ -366,25 +376,25 @@ Maestria → Algo extraordinário
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CPU-CREATIVITY_100%25-00FFF0?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/CPU-CRIATIVIDADE_100%25-00FFF0?style=for-the-badge&labelColor=05001A">
 
-<img src="https://img.shields.io/badge/RAM-IDEAS_UNLIMITED-0077FF?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/MEMÓRIA-IDEIAS_ILIMITADAS-0077FF?style=for-the-badge&labelColor=05001A">
 
-<img src="https://img.shields.io/badge/UPTIME-ALWAYS_ON-7A00FF?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/TEMPO_ONLINE-24%2F7-7A00FF?style=for-the-badge&labelColor=05001A">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUGS-UNDER_INVESTIGATION-FF1744?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/ERROS-SOB_INVESTIGAÇÃO-FF1744?style=for-the-badge&labelColor=05001A">
 
-<img src="https://img.shields.io/badge/COFFEE-REQUIRED-FFB300?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/CAFÉ-NECESSÁRIO-FFB300?style=for-the-badge&labelColor=05001A">
 
-<img src="https://img.shields.io/badge/MOTIVATION-INFINITE-00FFF0?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/MOTIVAÇÃO-INFINITA-00FFF0?style=for-the-badge&labelColor=05001A">
 
 </div>
 
 ---
 
-# 🌐 CONECTE-SE COMIGO
+# 🌐 ENTRE EM CONTATO
 
 <div align="center">
 
@@ -410,15 +420,15 @@ Maestria → Algo extraordinário
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3200&pause=900&color=00FFF0&center=true&vCenter=true&width=900&height=120&lines=O+futuro+n%C3%A3o+%C3%A9+esperado...;%C3%89+constru%C3%ADdo.;%E2%9A%A1+KEEP+LEARNING.;%F0%9F%92%BB+KEEP+CODING.;%F0%9F%9A%80+KEEP+BUILDING.;%F0%9F%94%A5+KEEP+EVOLVING.">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3200&pause=900&color=00FFF0&center=true&vCenter=true&width=900&height=120&lines=O+futuro+n%C3%A3o+%C3%A9+esperado...;%C3%89+constru%C3%ADdo.;%E2%9A%A1+CONTINUE+APRENDENDO.;%F0%9F%92%BB+CONTINUE+PROGRAMANDO.;%F0%9F%9A%80+CONTINUE+CONSTRUINDO.;%F0%9F%94%A5+CONTINUE+EVOLUINDO.">
 
 <br><br>
 
-## **"O limite é só o começo."**
+## **"O LIMITE É SÓ O COMEÇO."**
 
 <br>
 
-<img src="https://img.shields.io/badge/MADE_WITH-💙_CODE_&_CREATIVITY-00FFF0?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/FEITO_COM-💙_CÓDIGO_E_CRIATIVIDADE-00FFF0?style=for-the-badge&labelColor=05001A">
 
 <br><br>
 
