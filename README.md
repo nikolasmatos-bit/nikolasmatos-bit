@@ -570,3 +570,10 @@ Projetos que representam minha evolução.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:7C3AED,45:0047FF,70:00CFFF,100:00FFE1&height=200&section=footer&animation=fadeIn" width="100%">
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielldunder-beep/gabrielldunder-beep/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielldunder-beep/gabrielldunder-beep/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/gabrielldunder-beep/gabrielldunder-beep/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
