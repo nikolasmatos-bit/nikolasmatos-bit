@@ -89,7 +89,7 @@ Criar coisas que sejam:
 
 ---
 
-# 🛠️ ARSENAL TECNOLÓGICO
+# 🛠️ ARSENAL TECNOLÓGICO QUE IREI APRENDER E JÁ APRENDI
 
 <div align="center">
 
