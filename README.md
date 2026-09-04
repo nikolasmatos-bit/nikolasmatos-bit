@@ -511,6 +511,13 @@ Projetos que representam minha evolução.
 ### **NUNCA PARAR.**
 
 </div>
+<div align="center">
+
+# 🐍 MINHA COBRINHA DE CONTRIBUIÇÕES
+
+<img src="https://raw.githubusercontent.com/nikolasmatos-bit/nikolasmatos-bit/output/github-contribution-grid-snake.svg" width="100%">
+
+</div>
 
 ---
 
