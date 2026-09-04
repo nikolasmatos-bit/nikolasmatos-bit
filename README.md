@@ -1,26 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:003CFF,70:00C8FF,100:00FFF0&height=250&section=header&text=NIKOLAS%20MATOS&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=DEVELOPER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20INNOVATOR&descAlignY=57&descSize=19&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:071A52,65:0047FF,85:00CFFF,100:00FFE1&text=NIKOLAS%20MATOS&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20CRIATIVIDADE&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=600&color=00FFF0&center=true&vCenter=true&width=900&height=70&lines=%3E+HELLO%2C+WORLD!+%F0%9F%91%8B;%3E+EU+SOU+NIKOLAS+MATOS+%F0%9F%94%A5;%3E+TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;%3E+BUILDING+THE+FUTURE...+%F0%9F%9A%80;%3E+LEARN.+BUILD.+EVOLVE.+%E2%9A%A1" alt="Typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FFE1&center=true&vCenter=true&width=900&height=70&lines=OL%C3%81%2C+EU+SOU+O+NIKOLAS!+%F0%9F%91%8B;TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;CRIANDO+PROJETOS+QUE+IMPORTAM+%F0%9F%9A%80;APRENDENDO+ALGO+NOVO+TODOS+OS+DIAS+%F0%9F%A7%A0;O+PR%C3%93XIMO+N%C3%8DVEL+COME%C3%87A+AGORA+%E2%9A%A1" alt="Apresentação animada"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=nikolasmatos-bit&style=for-the-badge&color=00FFF0&labelColor=05001A&label=VISITAS">
+<img src="https://komarev.com/ghpvc/?username=nikolasmatos-bit&style=for-the-badge&color=00FFE1&labelColor=020617&label=VISITAS"/>
 
-<img src="https://img.shields.io/github/followers/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=white&color=0077FF&labelColor=05001A&label=SEGUIDORES">
+<img src="https://img.shields.io/github/followers/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0047FF&labelColor=020617&label=SEGUIDORES"/>
 
-<img src="https://img.shields.io/github/stars/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=white&color=7A00FF&labelColor=05001A&label=STARS">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00FFF0?style=for-the-badge&labelColor=05001A">
-
-<img src="https://img.shields.io/badge/MODE-ULTRA_FOCUS-7A00FF?style=for-the-badge&labelColor=05001A">
-
-<img src="https://img.shields.io/badge/ENERGY-INFINITE-FF1744?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/github/stars/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=FFFFFF&color=7C3AED&labelColor=020617&label=ESTRELAS"/>
 
 </div>
 
@@ -28,50 +20,136 @@
 
 <div align="center">
 
-# 👋 OLÁ, EU SOU O NIKOLAS!
+# 👋 PRAZER, EU SOU O NIKOLAS
 
-### 💻 Desenvolvedor em evolução
-### 🧠 Apaixonado por tecnologia
-### 🚀 Criador de projetos
-### 🔥 Sempre buscando o próximo nível
+### 💻 Desenvolvedor em evolução • 🧠 Curioso por natureza • 🚀 Criador por escolha
 
 <br>
 
-> **"Não quero apenas escrever código. Quero criar algo que faça diferença."**
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+**APRENDER**
+
+Sempre existe algo novo para descobrir.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💡
+**CRIAR**
+
+Ideias merecem sair da cabeça.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+**CONSTRUIR**
+
+Código transforma possibilidades em realidade.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**EVOLUIR**
+
+Cada projeto é um novo nível.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> ### "Não quero apenas escrever código. Quero criar algo inesquecível."
 
 </div>
 
 ---
 
-# 🧬 `> WHOAMI`
+# 🧬 SOBRE MIM
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 👨‍💻 SOBRE MIM
+## 👨‍💻 QUEM ESTÁ POR TRÁS DO CÓDIGO?
 
-🔭 Construindo projetos  
-🌱 Aprendendo constantemente  
-💡 Explorando novas ideias  
-🧠 Desenvolvendo novas habilidades  
-🚀 Transformando ideias em realidade  
-🔥 Nunca satisfeito com o "bom o suficiente"
+Olá! Eu sou **Nikolas Matos**.
+
+Sou apaixonado por tecnologia, programação e criação de projetos.
+
+Estou sempre tentando aprender mais, experimentar novas ideias e transformar aquilo que imagino em algo real.
+
+### 🔭 ATUALMENTE
+
+- 🚀 Criando novos projetos
+- 🌱 Aprendendo novas tecnologias
+- 🧠 Desenvolvendo minhas habilidades
+- 💡 Experimentando novas ideias
+- 🛠️ Resolvendo problemas
+- 🔥 Tentando superar meu próprio nível
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🎯 MEU OBJETIVO
+## 🎯 MEU OBJETIVO
 
-Criar coisas que sejam:
+Quero construir projetos que tenham:
 
-✨ Bonitas  
-⚡ Rápidas  
-🧠 Inteligentes  
-🛠️ Úteis  
-🚀 Inovadoras  
-🔥 Memoráveis
+✨ **Identidade**
+
+⚡ **Desempenho**
+
+🧠 **Inteligência**
+
+🎨 **Criatividade**
+
+🛠️ **Utilidade**
+
+🚀 **Impacto**
+
+<br>
+
+### MEU COMBUSTÍVEL
+
+**CURIOSIDADE**
+
+↓  
+
+**APRENDIZADO**
+
+↓  
+
+**PRÁTICA**
+
+↓  
+
+**EXPERIÊNCIA**
+
+↓  
+
+**CRIATIVIDADE**
+
+↓  
+
+**PROJETO**
+
+↓  
+
+**EVOLUÇÃO**
+
+↓  
+
+**∞**
 
 </td>
 </tr>
@@ -79,109 +157,61 @@ Criar coisas que sejam:
 
 ---
 
-# ⚡ SISTEMA NIKOLAS.EXE
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=400&color=00C8FF&center=true&vCenter=true&width=850&height=150&lines=%5BSYSTEM%5D+Booting+Nikolas.exe...;%5BSYSTEM%5D+Loading+creativity...;%5BSYSTEM%5D+Loading+curiosity...;%5BSYSTEM%5D+Loading+determination...;%5BSYSTEM%5D+Loading+coffee...;%5BSYSTEM%5D+SYSTEM+ONLINE+%E2%9C%85">
+# ⚡ SISTEMA NIKOLAS.EXE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=450&color=00CFFF&center=true&vCenter=true&width=850&height=150&lines=%5BSISTEMA%5D+Iniciando+Nikolas.exe...;%5BSISTEMA%5D+Carregando+criatividade...;%5BSISTEMA%5D+Carregando+curiosidade...;%5BSISTEMA%5D+Carregando+determina%C3%A7%C3%A3o...;%5BSISTEMA%5D+Carregando+habilidades...;%5BSISTEMA%5D+Sistema+pronto.+%E2%9C%85"/>
 
 </div>
 
 ---
 
-# 🛠️ ARSENAL TECNOLÓGICO
+# 🛠️ MEU ARSENAL TECNOLÓGICO
 
 <div align="center">
 
 ### 💻 LINGUAGENS
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c&theme=dark">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c&theme=dark"/>
 
 <br><br>
 
-### 🌐 WEB
+### 🌐 DESENVOLVIMENTO WEB
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite&theme=dark">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite&theme=dark"/>
 
 <br><br>
 
 ### ⚙️ FERRAMENTAS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,npm&theme=dark">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,npm&theme=dark"/>
 
 <br><br>
 
-### 🗄️ DATABASE & CLOUD
+### 🗄️ BANCO DE DADOS E NUVEM
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws&theme=dark">
-
-</div>
-
----
-
-# 🧠 MINHA FILOSOFIA
-
-<div align="center">
-
-### 💡 IDEIA
-
-↓
-
-### 🧠 APRENDIZADO
-
-↓
-
-### 💻 CÓDIGO
-
-↓
-
-### 🧪 TESTE
-
-↓
-
-### 🐛 ERRO
-
-↓
-
-### 🔧 DEBUG
-
-↓
-
-### ⚡ MELHORIA
-
-↓
-
-### 🚀 PROJETO
-
-↓
-
-### 🔥 EVOLUÇÃO
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# 🧠 COMO EU CONSTRUO
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikolasmatos-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05001A&title_color=00FFF0&icon_color=00C8FF&text_color=FFFFFF&rank_icon=github&custom_title=NIKOLAS%20MATOS" height="190">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmatos-bit&layout=compact&langs_count=10&hide_border=true&bg_color=05001A&title_color=00FFF0&text_color=FFFFFF&custom_title=TECH%20STACK" height="190">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=nikolasmatos-bit&theme=dark&hide_border=true&background=05001A&ring=00FFF0&fire=FF1744&currStreakLabel=00FFF0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%">
-
-</div>
-
----
-
-# 📈 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolasmatos-bit&bg_color=05001A&color=00FFF0&line=0077FF&point=FFFFFF&area=true&hide_border=true&custom_title=NIKOLAS%20MATOS%20-%20ACTIVITY" width="96%">
+| ETAPA | PROCESSO |
+|:---:|:---|
+| 01 | 💡 **IDEIA** |
+| 02 | 🔎 **PESQUISA** |
+| 03 | 📝 **PLANEJAMENTO** |
+| 04 | 💻 **CÓDIGO** |
+| 05 | 🧪 **TESTES** |
+| 06 | 🐛 **DEPURAÇÃO** |
+| 07 | ⚡ **OTIMIZAÇÃO** |
+| 08 | 🚀 **LANÇAMENTO** |
+| ∞ | 🔥 **EVOLUÇÃO** |
 
 </div>
 
@@ -193,7 +223,7 @@ Criar coisas que sejam:
 
 <a href="https://github.com/nikolasmatos-bit?tab=repositories">
 
-<img src="https://img.shields.io/badge/🚀_EXPLORAR_MEUS_REPOSITÓRIOS-00FFF0?style=for-the-badge&logo=github&logoColor=05001A">
+<img src="https://img.shields.io/badge/🚀_VER_TODOS_OS_MEUS_PROJETOS-00FFE1?style=for-the-badge&logo=github&logoColor=020617"/>
 
 </a>
 
@@ -203,201 +233,219 @@ Criar coisas que sejam:
 <tr>
 <td align="center" width="33%">
 
-## 🧪
+# 🧪
 
-### LAB
+## LABORATÓRIO
 
-Experimentando novas ideias.
-
-</td>
-
-<td align="center" width="33%">
-
-## 🚀
-
-### BUILD
-
-Construindo projetos.
+Projetos experimentais, testes e ideias.
 
 </td>
 
 <td align="center" width="33%">
 
-## 💎
+# ⚡
 
-### PRO
+## EM CONSTRUÇÃO
 
-Transformando projetos em algo grande.
+Projetos que estão evoluindo.
 
 </td>
-</tr>
-</table>
 
-</div>
+<td align="center" width="33%">
 
----
+# 💎
 
-# 🎮 PLAYER PROFILE
+## DESTAQUES
 
-<div align="center">
+Projetos que representam minha evolução.
 
-| ATRIBUTO | NÍVEL |
-|:---:|:---:|
-| 🧠 CURIOSIDADE | ████████████████████ 100% |
-| 💻 PROGRAMAÇÃO | █████████████████░░░ 85% |
-| 🎨 CRIATIVIDADE | ███████████████████░ 95% |
-| 🔥 DETERMINAÇÃO | ████████████████████ 100% |
-| 🚀 AMBIÇÃO | ████████████████████ 100% |
-| 📚 APRENDIZADO | ████████████████████ ∞% |
-
-</div>
-
----
-
-# 🧠 MINDSET
-
-<div align="center">
-
-### ❌ EU NÃO CONSIGO
-
-↓
-
-### 🤔 EU AINDA NÃO CONSIGO
-
-↓
-
-### 📚 EU VOU APRENDER
-
-↓
-
-### 💻 EU VOU TENTAR
-
-↓
-
-### 🧪 EU VOU TESTAR
-
-↓
-
-### 🔧 EU VOU MELHORAR
-
-↓
-
-# 🔥 EU CONSEGUI.
-
-</div>
-
----
-
-# ⚙️ DEVELOPMENT PIPELINE
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">💡<br><b>IDEIA</b></td>
-<td>→</td>
-<td align="center">🧠<br><b>PESQUISA</b></td>
-<td>→</td>
-<td align="center">📝<br><b>PLANO</b></td>
-<td>→</td>
-<td align="center">💻<br><b>CÓDIGO</b></td>
-</tr>
-
-<tr>
-<td align="center">🧪<br><b>TESTE</b></td>
-<td>←</td>
-<td align="center">🐛<br><b>DEBUG</b></td>
-<td>←</td>
-<td align="center">⚡<br><b>OTIMIZAÇÃO</b></td>
-<td>←</td>
-<td align="center">🚀<br><b>DEPLOY</b></td>
+</td>
 </tr>
 </table>
 
 <br>
 
-### 🔄 E ENTÃO...
-
-# REPETE. ∞
+### 💡 Uma ideia só se torna extraordinária quando alguém decide construí-la.
 
 </div>
 
 ---
 
-# 🏆 ROADMAP
+# 📊 MEU UNIVERSO NO GITHUB
 
 <div align="center">
 
-### 🟢 PHASE 01 — APRENDER
+<img src="https://github-readme-stats.vercel.app/api?username=nikolasmatos-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=00FFE1&icon_color=00CFFF&text_color=FFFFFF&rank_icon=github&custom_title=NIKOLAS%20MATOS" height="190"/>
 
-Conhecimento → Experiência
-
-### 🔵 PHASE 02 — CONSTRUIR
-
-Ideias → Projetos
-
-### 🟣 PHASE 03 — EXPERIMENTAR
-
-Projetos → Experiência
-
-### 🟠 PHASE 04 — EVOLUIR
-
-Experiência → Maestria
-
-### 🔴 PHASE 05 — IMPACTAR
-
-Maestria → Algo extraordinário
-
-</div>
-
----
-
-# 💻 TERMINAL
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00FFF0&center=true&vCenter=true&width=900&height=180&lines=%24+git+clone+ideas;%24+cd+ideas;%24+npm+install+skills;%24+code+.;%24+git+add+.;%24+git+commit+-m+%22never+stop%22;%24+git+push+origin+future;%24+echo+%22KEEP+BUILDING%22+%F0%9F%94%A5">
-
-</div>
-
----
-
-# 🔥 STATUS DO SISTEMA
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CPU-CREATIVITY_100%25-00FFF0?style=for-the-badge&labelColor=05001A">
-
-<img src="https://img.shields.io/badge/RAM-IDEAS_UNLIMITED-0077FF?style=for-the-badge&labelColor=05001A">
-
-<img src="https://img.shields.io/badge/UPTIME-ALWAYS_ON-7A00FF?style=for-the-badge&labelColor=05001A">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmatos-bit&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=00FFE1&text_color=FFFFFF&custom_title=MINHAS%20TECNOLOGIAS" height="190"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUGS-UNDER_INVESTIGATION-FF1744?style=for-the-badge&labelColor=05001A">
-
-<img src="https://img.shields.io/badge/COFFEE-REQUIRED-FFB300?style=for-the-badge&labelColor=05001A">
-
-<img src="https://img.shields.io/badge/MOTIVATION-INFINITE-00FFF0?style=for-the-badge&labelColor=05001A">
+<img src="https://streak-stats.demolab.com?user=nikolasmatos-bit&theme=dark&hide_border=true&background=020617&ring=00FFE1&fire=FF3D71&currStreakLabel=00FFE1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%"/>
 
 </div>
 
 ---
 
-# 🌐 CONECTE-SE COMIGO
+# 📈 MINHA ATIVIDADE
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolasmatos-bit&bg_color=020617&color=00FFE1&line=0066FF&point=FFFFFF&area=true&hide_border=true&custom_title=ATIVIDADE%20NO%20GITHUB" width="96%"/>
+
+</div>
+
+---
+
+# 🏆 MINHAS CONQUISTAS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikolasmatos-bit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%"/>
+
+</div>
+
+---
+
+# 🎮 MEU PERFIL
+
+<div align="center">
+
+| 🧠 ATRIBUTO | ⚡ NÍVEL |
+|:---:|:---:|
+| CURIOSIDADE | ████████████████████ **100%** |
+| CRIATIVIDADE | ███████████████████░ **95%** |
+| DETERMINAÇÃO | ████████████████████ **100%** |
+| PROGRAMAÇÃO | █████████████████░░░ **85%** |
+| APRENDIZADO | ████████████████████ **∞%** |
+| VONTADE DE EVOLUIR | ████████████████████ **∞%** |
+
+</div>
+
+---
+
+# 🧠 MINHA MENTALIDADE
+
+<div align="center">
+
+### ❌ "EU NÃO CONSIGO."
+
+↓
+
+### 🤔 "EU AINDA NÃO CONSIGO."
+
+↓
+
+### 📚 "EU VOU APRENDER."
+
+↓
+
+### 💻 "EU VOU TENTAR."
+
+↓
+
+### 🧪 "EU VOU TESTAR."
+
+↓
+
+### 🔧 "EU VOU MELHORAR."
+
+↓
+
+# 🔥 "EU CONSEGUI."
+
+</div>
+
+---
+
+# 🌌 VISÃO DE FUTURO
+
+<div align="center">
+
+### 🟢 FASE 01 — APRENDER
+
+Conhecimento → Experiência
+
+↓
+
+### 🔵 FASE 02 — CONSTRUIR
+
+Ideias → Projetos
+
+↓
+
+### 🟣 FASE 03 — EXPERIMENTAR
+
+Projetos → Experiência
+
+↓
+
+### 🟠 FASE 04 — EVOLUIR
+
+Experiência → Maestria
+
+↓
+
+### 🔴 FASE 05 — IMPACTAR
+
+Maestria → Algo extraordinário
+
+<br>
+
+# ∞
+
+### O objetivo nunca é parar de evoluir.
+
+</div>
+
+---
+
+# 💻 TERMINAL DO NIKOLAS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=00FFE1&center=true&vCenter=true&width=900&height=180&lines=%24+iniciar+futuro;%24+carregar+criatividade;%24+carregar+conhecimento;%24+carregar+determina%C3%A7%C3%A3o;%24+come%C3%A7ar+projeto;%24+evoluir;%24+repetir+at%C3%A9+ficar+incr%C3%ADvel"/>
+
+</div>
+
+---
+
+# 🔥 PAINEL DE STATUS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CRIATIVIDADE-100%25-00FFE1?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/CURIOSIDADE-INFINITA-00CFFF?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/DETERMINAÇÃO-100%25-7C3AED?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/IDEIAS-ILIMITADAS-0066FF?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/CAFÉ-NECESSÁRIO-FFB300?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/SONO-EM_MANUTENÇÃO-FF3D71?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+---
+
+# 🌐 ONDE ME ENCONTRAR
 
 <div align="center">
 
 <a href="https://github.com/nikolasmatos-bit">
-<img src="https://img.shields.io/badge/GITHUB-05001A?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://img.shields.io/badge/EMAIL-05001A?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-05001A?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+
 </a>
 
 </div>
@@ -406,22 +454,28 @@ Maestria → Algo extraordinário
 
 <div align="center">
 
-# 💭 UMA ÚLTIMA COISA...
+# 💭 ANTES DE VOCÊ IR...
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3200&pause=900&color=00FFF0&center=true&vCenter=true&width=900&height=120&lines=O+futuro+n%C3%A3o+%C3%A9+esperado...;%C3%89+constru%C3%ADdo.;%E2%9A%A1+KEEP+LEARNING.;%F0%9F%92%BB+KEEP+CODING.;%F0%9F%9A%80+KEEP+BUILDING.;%F0%9F%94%A5+KEEP+EVOLVING.">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=3300&pause=900&color=00FFE1&center=true&vCenter=true&width=900&height=120&lines=GRANDES+COISAS+COME%C3%87AM+PEQUENAS.;CADA+LINHA+DE+C%C3%93DIGO+%C3%89+UM+PASSO.;CADA+ERRO+ENSINA+ALGUMA+COISA.;CADA+PROJETO+TRAZ+UMA+NOVA+VERS%C3%83O+DE+VOC%C3%8A.;%F0%9F%94%A5+CONTINUE+CONSTRUINDO."/>
 
 <br><br>
 
-## **"O limite é só o começo."**
+# "O LIMITE É SÓ O COMEÇO."
 
 <br>
 
-<img src="https://img.shields.io/badge/MADE_WITH-💙_CODE_&_CREATIVITY-00FFF0?style=for-the-badge&labelColor=05001A">
+<img src="https://img.shields.io/badge/FEITO_COM-💙_CÓDIGO_+_CRIATIVIDADE-00FFE1?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,25:7A00FF,50:003CFF,75:00C8FF,100:00FFF0&height=180&section=footer&animation=fadeIn" width="100%">
+### 👋 Obrigado por visitar meu perfil.
+
+### 🚀 Nos vemos no próximo projeto.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:7C3AED,50:0047FF,75:00CFFF,100:00FFE1&height=190&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
