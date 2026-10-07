@@ -1,40 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,30:071B3A,65:123B76,100:00E5C0&text=NIKOLAS%20MATOS&fontSize=60&fontColor=E6FFFA&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%E2%80%A2%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=60" width="100%" alt="Nikolas Matos — Developer in progress">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,35:101B45,70:123B76,100:00F5D4&text=NIKOLAS%20MATOS&fontSize=62&fontColor=E6FFFA&fontAlignY=38&desc=IDEIAS%20EM%20%C3%93RBITA.%20C%C3%93DIGO%20EM%20CONSTRU%C3%87%C3%83O.&descSize=15&descAlignY=60" width="100%" alt="Nikolas Matos — ideias em órbita, código em construção">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=00E5C0&center=true&vCenter=true&width=720&height=45&lines=%3E+INICIALIZANDO+IDEIAS...;%3E+APRENDENDO.+CONSTRUINDO.+EVOLUINDO.;%3E+STATUS%3A+SEMPRE+EM+DESENVOLVIMENTO." alt="Mensagens de status">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=800&color=00F5D4&center=true&vCenter=true&width=780&height=45&lines=%3E+SISTEMA+ONLINE;%3E+CARREGANDO+NOVAS+IDEIAS...;%3E+APRENDER+%E2%86%92+CONSTRUIR+%E2%86%92+EVOLUIR;%3E+STATUS%3A+EM+CONSTRU%C3%87%C3%83O+CONSTANTE" alt="Status do sistema">
 
 <br><br>
 
-<a href="https://github.com/nikolasmatos-bit">
-  <img src="https://img.shields.io/badge/GITHUB-nikolasmatos--bit-0B1220?style=for-the-badge&logo=github&logoColor=00E5C0" alt="GitHub">
-</a>
-<img src="https://img.shields.io/badge/STATUS-EM%20CONSTRU%C3%87%C3%83O-0B1220?style=for-the-badge&labelColor=0B1220&color=00E5C0" alt="Status: em construção">
-<img src="https://img.shields.io/badge/PROTOCOLO-APRENDER%20%2F%20CRIAR%20%2F%20EVOLUIR-0B1220?style=for-the-badge&labelColor=0B1220&color=2563EB" alt="Aprender, criar e evoluir">
+<a href="#-identidade">IDENTIDADE</a> &nbsp;·&nbsp;
+<a href="#-arsenal">ARSENAL</a> &nbsp;·&nbsp;
+<a href="#-laboratório">LABORATÓRIO</a> &nbsp;·&nbsp;
+<a href="#-processo">PROCESSO</a> &nbsp;·&nbsp;
+<a href="#-telemetria">TELEMETRIA</a>
 
 <br><br>
 
-`CURIOSIDADE → CÓDIGO → POSSIBILIDADES`
+<img src="https://img.shields.io/badge/FOCO-CRIAR-0B1220?style=for-the-badge&labelColor=0B1220&color=00F5D4" alt="Foco: criar">
+<img src="https://img.shields.io/badge/MODO-APRENDIZAGEM-0B1220?style=for-the-badge&labelColor=0B1220&color=2563EB" alt="Modo: aprendizagem">
+<img src="https://img.shields.io/badge/TRAJETÓRIA-EM%20EVOLUÇÃO-0B1220?style=for-the-badge&labelColor=0B1220&color=7C3AED" alt="Trajetória em evolução">
+
+<br><br>
+
+### `CURIOSIDADE` → `CÓDIGO` → `POSSIBILIDADES`
 
 </div>
 
 ---
 
-## `01` / PERFIL
+## ◈ Identidade
 
-Sou apaixonado por tecnologia, programação e por descobrir como as coisas funcionam por dentro.
+**Sou Nikolas. Gosto de entender como a tecnologia funciona — e de transformar ideias em coisas que funcionam de verdade.**
 
-Gosto de pegar uma ideia, explorar caminhos, transformá-la em código e continuar refinando. Estou construindo minha jornada na programação **um projeto de cada vez** — aprendendo com cada tentativa e evoluindo a cada etapa.
+Minha jornada na programação acontece projeto a projeto. Pesquiso, experimento, erro, descubro o motivo e tento de novo. Não preciso saber tudo para começar: preciso de curiosidade para dar o próximo passo.
 
 ```text
-> missão: transformar ideias em projetos
-> combustível: curiosidade + criatividade + persistência
-> status: aprendendo e construindo
+MISSÃO   Criar, aprender e continuar melhorando.
+MÉTODO   Investigar → construir → testar → refinar.
+STATUS   Sempre em desenvolvimento.
 ```
 
-## `02` / TECH STACK
+## ◈ Arsenal
 
 Tecnologias e ferramentas que fazem parte da minha jornada:
 
@@ -44,44 +50,62 @@ Tecnologias e ferramentas que fazem parte da minha jornada:
 
 </div>
 
-## `03` / LABORATÓRIO
+## ◈ Laboratório
 
-Cada repositório é um espaço para experimentar, aprender e levar uma ideia mais longe.
+Meus repositórios são meu laboratório: um espaço para experimentar, aprender e dar forma a novas ideias.
 
 <div align="center">
 
 <a href="https://github.com/nikolasmatos-bit?tab=repositories">
-  <img src="https://img.shields.io/badge/ACESSAR%20REPOSIT%C3%93RIOS-00E5C0?style=for-the-badge&logo=github&logoColor=030712&labelColor=0B1220" alt="Acessar meus repositórios">
-</a>
-
-</div>
-
-Veja os repositórios fixados no meu perfil para encontrar os projetos que quero destacar.
-
-## `04` / PROTOCOLO DE DESENVOLVIMENTO
-
-<div align="center">
-
-`IDEIA` → `PESQUISA` → `PLANEJAMENTO` → `CÓDIGO` → `TESTES` → `ITERAR`
-
-</div>
-
-Não espero acertar de primeira. Investigo os erros, aprendo com eles e melhoro a solução — até que ela faça sentido.
-
-## `05` / CONEXÃO
-
-<div align="center">
-
-<a href="https://github.com/nikolasmatos-bit">
-  <img src="https://img.shields.io/badge/EXPLORAR%20MEU%20GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=00E5C0" alt="Explorar meu GitHub">
+  <img src="https://img.shields.io/badge/ABRIR%20LABORATÓRIO-00F5D4?style=for-the-badge&logo=github&logoColor=050816&labelColor=0B1220" alt="Explorar meus repositórios">
 </a>
 
 <br><br>
 
-**O futuro não é um lugar aonde se chega. É algo que se constrói.**
-
-`[ FIM DA TRANSMISSÃO — CONTINUE CONSTRUINDO ]`
+Confira também os repositórios fixados no meu perfil para ver o que merece destaque.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5C0,45:123B76,100:030712&height=120&section=footer" width="100%" alt="Rodapé futurista">
+## ◈ Processo
+
+<div align="center">
+
+`01 IDEIA` → `02 PESQUISA` → `03 CÓDIGO` → `04 TESTE` → `05 APRENDIZADO` → `06 PRÓXIMA VERSÃO`
+
+</div>
+
+Cada erro traz uma pergunta. Cada pergunta abre um caminho. E cada projeto — pequeno ou grande — é uma chance de sair sabendo mais do que antes.
+
+## ◈ Telemetria
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikolasmatos-bit&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5D4&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&custom_title=PAINEL%20DE%20ATIVIDADE" alt="Estatísticas do GitHub">
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmatos-bit&layout=compact&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=E2E8F0&custom_title=LINGUAGENS%20NO%20RADAR" alt="Linguagens mais usadas">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolasmatos-bit&bg_color=050816&color=00F5D4&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=SINAL%20DE%20ATIVIDADE" width="96%" alt="Gráfico de atividade no GitHub">
+
+</div>
+
+---
+
+<div align="center">
+
+### `TRANSMISSÃO ABERTA`
+
+**O futuro não vem pré-instalado. A gente constrói.**
+
+<a href="https://github.com/nikolasmatos-bit">
+  <img src="https://img.shields.io/badge/ACOMPANHE%20A%20JORNADA-0B1220?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Acompanhe minha jornada no GitHub">
+</a>
+
+<br><br>
+
+`FIM DA TRANSMISSÃO — VOLTANDO AO CÓDIGO`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:123B76,100:050816&height=110&section=footer" width="100%" alt="Encerramento">
+
+</div>
